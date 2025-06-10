@@ -7,6 +7,6 @@ This repository contains my solutions to algorithmic problems in competitive pro
 - [`Problemsets`](/Problemsets/) contains various sub directories. 
 
 ### Sub Directories of [`Problemsets`](/Problemsets/)
-- [CSES](/Problemsets/CSES/) - solutions to the [CSES Problemset](https://cses.fi/problemset/).
+- [`CSES`](/Problemsets/CSES/) - solutions to the [`CSES Problemset`](https://cses.fi/problemset/).
 
 
