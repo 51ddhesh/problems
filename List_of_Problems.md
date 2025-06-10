@@ -13,4 +13,5 @@
 |9| Apartments - [Solution](/Problemsets/CSES/Sorting-Searching/Apartments.cpp) |09-06-2025| CSES (Sorting Searching) - [Problem](https://cses.fi/problemset/task/1084)| N/A | Sorting, Greedy | 1 |
 |10| Bit Strings - [Solution](/Problemsets/CSES/Introductory/BitStrings.cpp) |08-06-2025| CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1617)| N/A | Math | 1 |
 |11| Tower of Hanoi - [Solution](/Problemsets/CSES/Introductory/TowerOfHanoi.cpp) |08-06-2025 | CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1617)| N/A | Ad-hoc | 1 |
+| 12 | Maximum diff b/w Even-Odd freq I - [Solution](/Problemsets/Leetcode/3442_MaxDiffBWEvenOddFrequency_I.cpp) | 10-06-2025 | LeetCode - [Problem](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/) | N/A | Hashing, Counting | 2 | 
 
