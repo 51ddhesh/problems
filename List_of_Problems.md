@@ -9,7 +9,7 @@
 |5| Increasing Array - [Solution](/Problemsets/CSES/Introductory/IncreasingArray.cpp) |06-06-2025| CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1094)| N/A | Ad-hoc, Constructive | 2 | 
 |6| Permutations - [Solution](/Problemsets/CSES/Introductory/Permutations.cpp) |09-06-2025| CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1070)| N/A | Ad-hoc, Constructive | 1 |
 |7| Trailing Zeros - [Solution](/Problemsets/CSES/Introductory/TrailingZeros.cpp) | 09-06-2025 | CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1618)| N/A | Ad-hoc, Math, Number Theory | 2 |
-|8| Distinct Numbers - [Solution](/Problemsets/CSES/Sorting-Searching/DistinctNumbers.cpp) | 08-06-2025 | CSES - (Sorting Searching) [Problem](https://cses.fi/problemset/task/1621)| N/A | Hashing | 1 | 
+|8| Distinct Numbers - [Solution](/Problemsets/CSES/Sorting-Searching/DistinctNumbers.cpp) | 08-06-2025 | CSES (Sorting Searching) - [Problem](https://cses.fi/problemset/task/1621)| N/A | Hashing | 1 | 
 |9| Apartments - [Solution](/Problemsets/CSES/Sorting-Searching/Apartments.cpp) |09-06-2025| CSES (Sorting Searching) - [Problem](https://cses.fi/problemset/task/1084)| N/A | Sorting, Greedy | 1 |
 |10| Bit Strings - [Solution](/Problemsets/CSES/Introductory/BitStrings.cpp) |08-06-2025| CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1617)| N/A | Math | 1 |
 |11| Tower of Hanoi - [Solution](/Problemsets/CSES/Introductory/TowerOfHanoi.cpp) |08-06-2025 | CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1617)| N/A | Ad-hoc | 1 |
