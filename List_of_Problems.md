@@ -14,4 +14,5 @@
 |10| Bit Strings - [Solution](/Problemsets/CSES/Introductory/BitStrings.cpp) |08-06-2025| CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1617)| N/A | Math | 1 |
 |11| Tower of Hanoi - [Solution](/Problemsets/CSES/Introductory/TowerOfHanoi.cpp) |08-06-2025 | CSES (Introductory) - [Problem](https://cses.fi/problemset/task/1617)| N/A | Ad-hoc | 1 |
 | 12 | Maximum diff b/w Even-Odd freq I - [Solution](/Problemsets/Leetcode/3442_MaxDiffBWEvenOddFrequency_I.cpp) | 10-06-2025 | LeetCode - [Problem](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/) | N/A | Hashing, Counting | 2 | 
-
+| 13 | ASCII Kassi - [Solution](/Problemsets/Kattis/ASCIIkassi.cpp) | 10-06-2025 | Kattis Problem Archive - [Problem](https://open.kattis.com/problems/asciikassi) | [Submission](https://open.kattis.com/submissions/17539527) | Implementation | 1 |
+| 14 | Giskadu - [Solution](/Problemsets/Kattis/giskadu.cpp) | 10-06-2025 | Kattis Problem Archive - [Problem](https://open.kattis.com/problems/giskadu) | [Submission](https://open.kattis.com/submissions/17539597) | Ad-hoc | 1 | 
