@@ -8,5 +8,5 @@ This repository contains my solutions to algorithmic problems in competitive pro
 
 ### Sub Directories of [`Problemsets`](/Problemsets/)
 - [`CSES`](/Problemsets/CSES/) - solutions to the [`CSES Problemset`](https://cses.fi/problemset/).
-
-
+- [`LeetCode`](/Problemsets/Leetcode/) - solutions to the problems from [`LeetCode`](https://leetcode.com/problemset/)
+- [`Kattis`](/Problemsets/Kattis/) - solutions to the problems from the [`Kattis Problem Archive`](https://open.kattis.com/)
