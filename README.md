@@ -4,6 +4,7 @@ This repository contains my solutions to algorithmic problems in competitive pro
 
 ## Guide
 - The [`List_of_Problems.md`](./List_of_Problems.md) contains the list of problems solved
+- [`Unsolved.md`](./Unsolved.md) contains the TLE/WA solutions.
 - [`Problemsets`](/Problemsets/) contains various sub directories. 
 
 ### Sub Directories of [`Problemsets`](/Problemsets/)
