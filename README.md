@@ -13,4 +13,4 @@ This repository contains my solutions to algorithmic problems in competitive pro
 - [`LeetCode`](/Problemsets/LeetCode/) - solutions to the problems from [`LeetCode`](https://leetcode.com/problemset/).
 - [`Kattis`](/Problemsets/Kattis/) - solutions to the problems from the [`Kattis Problem Archive`](https://open.kattis.com/).
 - [`Codeforces`](/Problemsets/Codeforces/) - solutions to problems from [`Codeforces`](https://codeforces.com/).
-- [`Codechef`](/Problemsets/CodeChef/) - solutions to problems from [`Codechef`](https://www.codechef.com/).
+- [`Codechef`](/Problemsets/CodeChef/) - solutions to problems from [`Codechef`](https://www.codeChef.com/).
