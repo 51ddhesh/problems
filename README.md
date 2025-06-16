@@ -1,6 +1,8 @@
 # Solutions 
 This repository contains my solutions to algorithmic problems in competitive programming implemented in `C++`.
 
+There are many sources used for choosing the problems to solve and are listed in the [`List_of_Problems.md`](./List_of_Problems.md).
+
 ---
 
 ## Guide
