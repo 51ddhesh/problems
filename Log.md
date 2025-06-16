@@ -3,7 +3,8 @@
 
 | Week | Start Date | End Date | Problems Solved |
 |:----:|:----------:|:--------:|:---------------:|
-| 1    |06-06-2025  |16-06-2025| 45              |
+| 1    | 06-06-2025 |16-06-2025| 45              |
+| 2    | 16-06-2025 |23-06-2025| 01              |
 
 
 
@@ -18,7 +19,7 @@
 # Platform Wise
 | Platform | Problems Solved |
 |:--------:|:---------------:|
-| [`Codeforces`](https://codeforces.com/) | 22 | 
+| [`Codeforces`](https://codeforces.com/) | 23 | 
 | [`CSES`](https://cses.fi/problemset/)   | 12 |
 | [`LeetCode`](https://leetcode.com/problemset/) | 6 |
 | [`CodeChef`](https://www.codechef.com/) | 2 |
