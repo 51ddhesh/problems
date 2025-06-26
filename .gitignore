@@ -1,4 +1,2 @@
 *.sh
-
-in.txt
-out.txt
+*.txt
