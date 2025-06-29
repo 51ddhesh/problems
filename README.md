@@ -16,3 +16,4 @@ There are many sources used for choosing the problems to solve and are listed in
 - [`Problemsets/CF/`](/Problemsets/CF/) - solutions to problems from [`Codeforces`](https://codeforces.com/).
 - [`Problemsets/CC/`](/Problemsets/CC/) - solutions to problems from [`CodeChef`](https://www.codeChef.com/).
 - [`Problemsets/AC/`](/Problemsets/AC/) - solutions to contests from [`AtCoder`](https://atcoder.jp/).
+- [`Problemsets/Euler/`](/Problemsets/Euler/) - solutions to problems from [`Project Euler`](https://projecteuler.net/archives).

@@ -5,7 +5,7 @@
 |:----:|:----------:|:--------:|:---------------:|
 | 1    | 06-06-2025 |16-06-2025| 39              |
 | 2    | 16-06-2025 |23-06-2025| 03              |
-| 3    | 26-06-2025 |-         | 07              |
+| 3    | 26-06-2025 |-         | 09              |
 
 
 <br>
@@ -21,6 +21,7 @@
 |:--------:|:---------------:|
 | [`Codeforces`](https://codeforces.com/) | 30 | 
 | [`CSES`](https://cses.fi/problemset/)   | 12 |
+| [`AtCoder`](https://atcoder.jp/) | 4 |
 | [`CodeChef`](https://www.codechef.com/) | 2  |
-| [`AtCoder`](https://atcoder.jp/) | 3 |
 | [`Kattis Problem Archive`](https://open.kattis.com/) | 2 | 
+| [`Project Euler`](https://projecteuler.net/archives) | 1 |
