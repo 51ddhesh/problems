@@ -1,7 +1,7 @@
 ## Answers to the problems from [`Project Euler`](https://projecteuler.net/archives)
 
-| Sr No | Problem | Answer |
-|:-----:|:-------|:------:|
+| Problem No | Problem | Answer |
+|:----------:|:-------|:------:|
 | 1 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | 233168 |
 | 2 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | 4613732 |
 | 7 | [10_001st Prime](https://projecteuler.net/problem=7) | 104743 |
